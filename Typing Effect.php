@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="Typing Effect.css"/>
+<title>Typing Effect</title>
+<div class="wrapper">
+<div class="typing-demo">
+Bienvenue dans le portfolio de Foulail Oumar
+</div>
+</div>
+</body>
+</html>
+

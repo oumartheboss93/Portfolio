@@ -7,7 +7,7 @@
 <link rel="icon" href="Profil.jpg" />
 <link rel="shortcut icon" href="Profil.jpg" type="image/x-icon">
 <link rel="stylesheet" href="Boutton.css"/>
-<?php include 'menu.php';?>
+<?php include 'menu.html';?>
 <title>Profil</title>    
 </head>
 <body>
@@ -58,7 +58,7 @@ Au cours de ces années de Lycée, j'ai jamais abondonné ma passion pour l’in
 <h2><font color="##000000"> - Curieux </font></h2>
 <h2><font color="##000000"> - Persévérant </font></h2>
 <h2><font color="##000000"> - Passionné </font></h2>
-<?php include 'Skills bar.php';?>
+<?php include 'Skills bar.html';?>
 
 <footer class="footer">
 <div class="container">

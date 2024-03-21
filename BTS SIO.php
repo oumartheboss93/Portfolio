@@ -13,7 +13,7 @@
 <label for="toggle-1" class="toggle-menu"><ul><li></li> <li></li> <li></li></ul></label>
 <input type="checkbox" id="toggle-1">
 <header>
-<?php include 'menu.php'?>
+<?php include 'menu.html'?>
 </header>
 </section>
 <section id="QU'EST-CE-QUE LE BTS SIO?">
